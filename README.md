@@ -24,7 +24,7 @@ This is the dataset with 32 subjects with 40 electrode readings out of which 32 
 ## LABEL ENCODING
 
 ### VALENCE AROUSAL MODEL 
-![VA])(https://github.com/CHINMAY02CS/Emotion-Recognition-Using-EEG-Signals/blob/main/VA%20MODEL.png)
+![VA](https://github.com/CHINMAY02CS/Emotion-Recognition-Using-EEG-Signals/blob/main/VA%20MODEL.png)
 
 HAPPY (1) – Valence, Arousal both are higher than threshold
 <br>
