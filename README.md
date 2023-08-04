@@ -15,6 +15,7 @@ This is the dataset with 32 subjects with 40 electrode readings out of which 32 
 
 ![Datasetandlabel](https://github.com/CHINMAY02CS/Emotion-Recognition-Using-EEG-Signals/blob/main/Dataset%20and%20label%20generation.JPG)
 
+**TECH STACK** - MATLAB
 ## PROBLEM STATEMENT
 
 - Compute mean, kurtosis, skewness and standard deviation of the EEG signals
